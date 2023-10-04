@@ -623,7 +623,7 @@ a:hover {
 
 .buy_bt a:hover {
     background-color: transparent;
-    color: #262626;
+    color: #a6ff00;
 }
 
 .seemore_bt {
@@ -642,7 +642,7 @@ a:hover {
 
 .seemore_bt a:hover {
     background-color: transparent;
-    color: #ffffff;
+    color: #01cedd;
 }
 
 #main_slider a.carousel-control-next {
