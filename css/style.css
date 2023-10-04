@@ -1,4 +1,4 @@
---------------------------------------------------------------------- File Name: style.css ---------------------------------------------------------------------*/
+--------------------------------------------------------------------- File Name style.css ---------------------------------------------------------------------*/
 /*--------------------------------------------------------------------- import Files ---------------------------------------------------------------------*/
 
 @import url(animate.min.css);
@@ -35,7 +35,7 @@ body {
 }
 
 a {
-    color: #1f1f1f;
+    color: #ffffff;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -124,7 +124,7 @@ p {
 }
 
 a {
-    color: #222222;
+    color: #ffffff;
     text-decoration: none;
     outline: none !important;
 }
@@ -200,8 +200,8 @@ button {
 }
 
 .layout_padding {
-    padding-top: 90px;
-    padding-bottom: 0px;
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
 
 .padding_0 {
@@ -553,7 +553,7 @@ a:hover {
 .fashion_section {
     width: 100%;
     float: left;
-    padding-bottom: 150px;
+    padding-bottom: 10px;
 }
 
 .fashion_taital {
@@ -571,7 +571,7 @@ a:hover {
 
 .box_main {
     width: 100%;
-    background-color: #ffffff;
+    background-color: #000000;
     height: auto;
     padding: 20px;
     box-shadow: 0px 0 30px 10px #f0f0f0;
@@ -581,10 +581,10 @@ a:hover {
 .shirt_text {
     width: 100%;
     font-size: 20px;
-    color: #30302e;
+    color: #FFFFFF;
     text-align: center;
     font-weight: bold;
-    padding-bottom: 5px;
+    padding-bottom: px;
 }
 
 .price_text {
@@ -615,7 +615,7 @@ a:hover {
 .buy_bt a {
     width: 100%;
     font-size: 16px;
-    color: #f26522;
+    color: #ffffff;
     background-color: transparent;
     text-align: right;
     font-weight: bold;
@@ -635,14 +635,14 @@ a:hover {
 .seemore_bt a {
     width: 100%;
     font-size: 16px;
-    color: #262626;
+    color: #ffffff;
     background-color: transparent;
     text-align: right;
 }
 
 .seemore_bt a:hover {
     background-color: transparent;
-    color: #f26522;
+    color: #ffffff;
 }
 
 #main_slider a.carousel-control-next {
